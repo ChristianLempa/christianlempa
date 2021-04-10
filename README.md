@@ -3,7 +3,7 @@ I’m Christian, a tech enthusiast, and an IT professional. I love to inspire an
 
 ###### Technical Account Manager OEM | Content Creator
 
-* **YouTube:** [The Digital Life](https://youtube.com/thedigitallifetech) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZNhwA1B5YqiY1nLzmM0ZRg)
+* **YouTube:** [The Digital Life](https://youtube.com/thedigitallifetech) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZNhwA1B5YqiY1nLzmM0ZRg) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?style=social)
 * **Twitter:** [Christian Lempa](https://twitter.com/christian_tdl)
 * **Instagram:** [Christian Lempa](https://www.instagram.com/christian_tdl)
 * **TikTok:** [Christian Lempa](https://www.tiktok.com/@christian_tdl)
