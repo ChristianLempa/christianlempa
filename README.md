@@ -10,15 +10,15 @@ I ❤️ to **inspire and educate** people in IT.
 
 This is the right place for you to jump into the field of IT and develop a successful career by learning the right skills and getting valuable IT certifications.
 
-I create detailed tutorials with a focus on known IT industry standards and share best practices helping you to get ahead in your career.
+Become part of an awesome community of talented IT experts all around the world!
 
 
-* **YouTube:** [The Digital Life](https://youtube.com/thedigitallifetech) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZNhwA1B5YqiY1nLzmM0ZRg) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/christian_tdl?color=blue&logo=twitter&style=for-the-badge)
+![Discord](https://img.shields.io/discord/702179729767268433?label=Join%20the%20community&logo=discord&style=for-the-badge)
 
-* **Blog:** [The Digital Life](https://www.the-digital-life.com) 
 
-## Technologies and Tools
+## 🛠️ Technologies and Tools
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white" /> 
 </p>
-
