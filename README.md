@@ -1,5 +1,5 @@
 ## 👋 Hi there,
-I’m Christian, a tech enthusiast, and an IT professional.
+I’m Christian, a Tech enthusiast, YouTuber, and IT professional.
 
 I ❤️ to **inspire and educate** people in IT.
 
