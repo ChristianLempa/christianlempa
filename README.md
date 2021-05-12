@@ -1,10 +1,24 @@
-### Hi there 👋,
-I’m Christian, a tech enthusiast, and an IT professional. I love to inspire and educate people in IT.
+## 👋 Hi there,
+I’m Christian, a tech enthusiast, and an IT professional.
 
-###### Technical Account Manager OEM | Content Creator
+I ❤️ to **inspire and educate** people in IT.
+
+🚀 Learn: Linux, DevOps, Python, Docker, Cybersecurity
+
+
+## 🎬 YouTube Channel "The Digital Life"
+
+This is the right place for you to jump into the field of IT and develop a successful career by learning the right skills and getting valuable IT certifications.
+
+I create detailed tutorials with a focus on known IT industry standards and share best practices helping you to get ahead in your career.
+
 
 * **YouTube:** [The Digital Life](https://youtube.com/thedigitallifetech) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCZNhwA1B5YqiY1nLzmM0ZRg) ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?style=social)
-* **Twitch:** [The Digital Life](https://twitch.tv/the_digital_life_) ![Twitch Status](https://img.shields.io/twitch/status/the_digital_life_?style=social)
-* **Twitter:** [Christian Lempa](https://twitter.com/christian_tdl) ![Twitter Follow](https://img.shields.io/twitter/follow/christian_tdl?style=social)
-* **Instagram:** [Christian Lempa](https://www.instagram.com/christian_tdl)
+
 * **Blog:** [The Digital Life](https://www.the-digital-life.com) 
+
+## Technologies and Tools
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white" /> 
+</p>
+
