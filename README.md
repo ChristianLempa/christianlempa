@@ -21,4 +21,14 @@ Become part of an awesome community of talented IT experts all around the world!
 ## 🛠️ Technologies and Tools
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&logoColor=white" /> 
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img alt="Vagrant" src="https://img.shields.io/badge/-Vagrant-000?style=for-the-badge&logo=vagrant&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-000?style=for-the-badge&logo=digitalocean&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-000?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-000?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-000?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img alt="Notion" src="https://img.shields.io/badge/-Notion-000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-000?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> 
 </p>
