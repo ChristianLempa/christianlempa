@@ -1,9 +1,9 @@
-## 👋 Hi there,
-I’m Christian, a Tech enthusiast, YouTuber, and IT professional.
+## 👋 Hi there, I'm Christian!
+I’m a Tech enthusiast, YouTuber, and IT professional.
 
 I ❤️ to **inspire and educate** people in IT.
 
-🚀 Learn: Linux, DevOps, Python, Docker, Cybersecurity
+I create detailed tutorials focusing on known IT industry standards and share my best practices to help you get ahead in your career. Check out my YouTube Channel and 🚀 learn Linux, DevOps, Python, Docker, Cybersecurity
 
 
 ## 🎬 YouTube Channel "The Digital Life"
