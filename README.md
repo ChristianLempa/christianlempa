@@ -9,5 +9,3 @@ I create detailed tutorials focusing on known industry standards and share my be
 
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=flat)
 
-
-## My GitHub Projects
