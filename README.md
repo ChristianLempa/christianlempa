@@ -5,7 +5,7 @@ I’m Christian, a 35 years old tech enthusiast from Germany, and I love to insp
 
 ## My YouTube Channel
 
-Since 2020, I'm running a YouTube Channel "The Digital Life", where create detailed tech videos about my Homelab and share my best practices. 
+Since 2020, I'm running a YouTube Channel "The Digital Life", where create detailed tech videos about my Homelab and share my best practices.
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=flat)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?label=Watch%20me%20on%20YouTube&logo=youtube&logoColor=red&style=flat)](https://www.youtube.com/c/TheDigitalLifeTech/featured)
 
