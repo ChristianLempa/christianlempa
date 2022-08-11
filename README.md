@@ -6,13 +6,11 @@ I’m Christian, a 35 years old tech enthusiast from Germany, and I love to insp
 
 ## Watch my Videos
 
-**[Subscribe to my YouTube Channel: The Digital Life](https://www.youtube.com/channel/UCZNhwA1B5YqiY1nLzmM0ZRg)**
-
-Since 2020, I’m running a **YouTube Channel**, where create detailed tech videos about my Home lab and share my best practices.
+Since 2020, I’m running a **[YouTube Channel: The Digital Life](https://www.youtube.com/channel/UCZNhwA1B5YqiY1nLzmM0ZRg)**, where create detailed tech videos about my Home lab and share my best practices.
 
 ## Meet our Community
 
-**[Join Discord](https://discord.com/invite/bz2SN7d)**
+**[Join my Discord](https://discord.com/invite/bz2SN7d)** connect with other IT professionals and tech enthusiasts.
 
 ## Resources on GitHub
 
