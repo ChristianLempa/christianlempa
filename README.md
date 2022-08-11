@@ -2,22 +2,17 @@
 
 # Hi, there! 👋
 
-I’m Christian, a 35 years old tech enthusiast from Germany, and I love to inspire and educate people in IT.
-
-![Twitter Follow](https://img.shields.io/twitter/follow/christian_tdl?style=social)
-![Instagram Follow](https://img.shields.io/badge/Follow%20@christian_tdl--E1306C?style=social&logo=instagram&url=&url=https://instagram.com/christian_tdl)
-![Instagram Medium](https://img.shields.io/badge/Follow%20@christian_tdl--E1306C?style=social&logo=medium&url=https://medium.com/christian_tdl)
-![Kit.Co](https://img.shields.io/badge/Kit.co-My%20equipment-000?style=social&url=https://kit.co/thedigitallife)
+I’m Christian, a 35 years old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on [Twitter](https://twitter.com/christian_tdl), [Instagram](https://www.instagram.com/christian_tdl/) and [Medium](https://medium.com/@christian_tdl)
 
 ## Watch my Videos
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZNhwA1B5YqiY1nLzmM0ZRg?label=Subscribe%20to%20The%20Digital%20Life&style=social)
+**[Subscribe to my YouTube Channel: The Digital Life](https://www.youtube.com/channel/UCZNhwA1B5YqiY1nLzmM0ZRg)**
 
 Since 2020, I’m running a **YouTube Channel**, where create detailed tech videos about my Home lab and share my best practices.
 
 ## Meet our Community
 
-![Discord](https://img.shields.io/discord/702179729767268433?label=Join%20Discord&logo=discord&style=social)
+**[Join Discord](https://discord.com/invite/bz2SN7d)**
 
 ## Resources on GitHub
 
@@ -28,8 +23,6 @@ Since 2020, I’m running a **YouTube Channel**, where create detailed tech vide
 
 ## Support me
 
-![Patreon Support](https://img.shields.io/badge/Support%20me%20on%20Patreon-starting%20at%201$-000?style=social&logo=patreon&url=https://www.patreon.com/christianlempa)
+**[Becoming a Patreon](https://medium.com/@christian_tdl)** will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 
-Becoming a Patreon will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
-
-**Help me to create something that matters to people!**
+***Help me to create something that matters to people!***
