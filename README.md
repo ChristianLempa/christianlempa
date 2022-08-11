@@ -2,7 +2,7 @@
 
 # Hi, there! 👋
 
-I’m Christian, a 35 years old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on [Twitter](https://twitter.com/christian_tdl), [Instagram](https://www.instagram.com/christian_tdl/) and [Medium](https://medium.com/@christian_tdl)
+I’m Christian, a 35 years old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on [Twitter](https://twitter.com/christian_tdl), and [Instagram](https://www.instagram.com/christian_tdl/).
 
 ## Watch my Videos
 
