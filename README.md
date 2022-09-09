@@ -21,6 +21,6 @@ Since 2020, I’m running a **[YouTube Channel: The Digital Life](https://www.yo
 
 ## Support me
 
-**[Becoming a Patreon](https://medium.com/@christian_tdl)** will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
+**[Becoming a Patreon](https://www.patreon.com/christianlempa)** will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
 
 ***Help me to create something that matters to people!***
