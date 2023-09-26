@@ -26,7 +26,7 @@ Also, don't forget to check out my written tutorials and documentation. These re
 - [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
 - [Videos](https://github.com/christianlempa/videos) - Documentation and project files for all my video tutorials on YouTube
-- [Homelab](https://github.com/christianlempa/homelab) - This is my entire homelab documentation, and configurations for infrastructure, applications, networking, and more.
+- [Homelab](https://github.com/christianlempa/homelab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
 
 ## Support me and make a difference
 
