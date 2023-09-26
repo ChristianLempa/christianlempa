@@ -12,19 +12,19 @@ Why am I doing all this? Because I just have a genuine love for IT and sharing m
 
 [https://youtube.com/@christianlempa](https://youtube.com/@christianlempa)
 
-#### Meet our Community
+## Meet our Community
 
 And because I believe in the power of connection and collaboration, I’ve created a tech community on Discord. It's a fantastic place to connect with other IT professionals, tech enthusiasts and others who share your passion.
 
 [https://christianlempa.de/discord](https://christianlempa.de/discord)
 
-#### Write-Ups and Tutorials
+## Write-Ups and Tutorials
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
 [https://christianlempa.de/docs](https://christianlempa.de/docs)
 
-#### Support me and make a difference!
+## Support me and make a difference!
 
 Creating high-quality videos and valuable resources that are accessible to everyone, free of charge, is a huge challenge. With your contribution, I can dedicate more time and effort into the creation process, which ultimately enhances the quality of the content. So, all your support, by becoming a member, truly makes a significant impact on what I do. And you’ll also get some cool benefits and perks in return, as a recognition of your support.
 
