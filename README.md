@@ -22,7 +22,7 @@ And because I believe in the power of connection and collaboration, I’ve creat
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-- [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on Linux and Windows
+- [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on mac OS
 - [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
 - [Videos](https://github.com/christianlempa/videos) - Documentation and project files for all my video tutorials on YouTube
