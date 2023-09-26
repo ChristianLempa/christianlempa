@@ -1,26 +1,33 @@
-![](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)
+# Christian Lempa
 
-# Hi, there! 👋
+[![Welcome](https://cnd-prod-1.s3.us-west-004.backblazeb2.com/new-banner4-scaled-for-github.jpg)](https://youtu.be/apgp9egIKK8)
 
-I’m Christian, a 36-year-old tech enthusiast from Germany, and I love to inspire and educate people in IT. You can find me on [Twitter](https://twitter.com/christianlempa), and [Instagram](https://www.instagram.com/christianlempa).
+**Hey, there!**
 
-## Watch my Videos
+**I’m Christian, and I’m passionate about creating educational tech content for IT Pros and Homelab nerds.**
 
-Since 2020, I’m running a **[YouTube Channel: The Digital Life](https://www.youtube.com/@christianlempa)**, where create detailed tech videos about my Home lab and share my best practices.
+Through my [YouTube channel](https://youtube.com/@christianlempa), I’m sharing engaging videos, tutorials, and write-ups that make complex topics easy to understand. Whether you're a tech enthusiast or just someone curious about IT, my content offers valuable insights and practical knowledge.
 
-## Meet our Community
+Why am I doing all this? Because I just have a genuine love for IT and sharing my knowledge with others. I believe that by presenting what I've learned, I can inspire people to explore and experiment with technology themselves.
 
-**[Join my Discord](https://discord.com/invite/bz2SN7d)** connect with other IT professionals and tech enthusiasts.
+[https://youtube.com/@christianlempa](https://youtube.com/@christianlempa)
 
-## Resources on GitHub
+#### Meet our Community
 
-- [Videos](https://github.com/christianlempa/videos) - Documentation and project files for all my video tutorials on YouTube
-- [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on Linux and Windows
-- [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
-- [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
+And because I believe in the power of connection and collaboration, I’ve created a tech community on Discord. It's a fantastic place to connect with other IT professionals, tech enthusiasts and others who share your passion.
 
-## Support me
+[https://christianlempa.de/discord](https://christianlempa.de/discord)
 
-**[Becoming a Patreon](https://www.patreon.com/christianlempa)** will support my mission to create free, high-quality content for tech enthusiasts and IT professionals.
+#### Write-Ups and Tutorials
 
-***Help me to create something that matters to people!***
+Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
+
+[https://christianlempa.de/docs](https://christianlempa.de/docs)
+
+#### Support me and make a difference!
+
+Creating high-quality videos and valuable resources that are accessible to everyone, free of charge, is a huge challenge. With your contribution, I can dedicate more time and effort into the creation process, which ultimately enhances the quality of the content. So, all your support, by becoming a member, truly makes a significant impact on what I do. And you’ll also get some cool benefits and perks in return, as a recognition of your support.
+
+Remember, ***supporting me is entirely optional.*** Your choice to become a member or not won't change your access to my videos and resources. You are also welcome to reach out to me on Discord, if you have any questions or feedback.
+
+[https://www.patreon.com/christianlempa](https://www.patreon.com/christianlempa)
