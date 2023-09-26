@@ -22,9 +22,13 @@ And because I believe in the power of connection and collaboration, I’ve creat
 
 Also, don't forget to check out my written tutorials and documentation. These resources serve as valuable references that complement the information in my videos. You'll find helpful example code snippets, templates, and more to support your learning process.
 
-[https://christianlempa.de/docs](https://christianlempa.de/docs)
+- [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on Linux and Windows
+- [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
+- [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
+- [Videos](https://github.com/christianlempa/videos) - Documentation and project files for all my video tutorials on YouTube
+- [Homelab](https://github.com/christianlempa/homelab) - This is my entire homelab documentation, and configurations for infrastructure, applications, networking, and more.
 
-## Support me and make a difference!
+## Support me and make a difference
 
 Creating high-quality videos and valuable resources that are accessible to everyone, free of charge, is a huge challenge. With your contribution, I can dedicate more time and effort into the creation process, which ultimately enhances the quality of the content. So, all your support, by becoming a member, truly makes a significant impact on what I do. And you’ll also get some cool benefits and perks in return, as a recognition of your support.
 
