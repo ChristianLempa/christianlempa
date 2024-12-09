@@ -25,7 +25,6 @@ Also, don't forget to check out my written tutorials and documentation. These re
 - [Dotfiles](https://github.com/christianlempa/dotfiles) - My personal configuration files on macOS
 - [Boilerplates](https://github.com/christianlempa/boilerplates) - Templates for various projects like Docker, K8S, Ansible, etc
 - [Cheat-Sheets](https://github.com/christianlempa/cheat-sheets) - Command Reference for various tools and technologies
-- [Homelab](https://github.com/christianlempa/homelab) - This is my entire Homelab documentation, and configurations for infrastructure, applications, networking, and more.
 
 ## Support me and make a difference
 
